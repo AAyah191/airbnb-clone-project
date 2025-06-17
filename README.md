@@ -26,9 +26,11 @@ Git, GitHub,
 - User authentication
   
 ### Primary Pages
+| Page Name             | Description                                                                 |
+|-----------------------|-----------------------------------------------------------------------------|
 | Property Listing View | Grid display of available properties with filters |
 | Listing Detailed View | Complete property details with images and booking form |
-| Simple Checkout View | Streamlined payment and booking confirmation |
+| Simple Checkout View  | Streamlined payment and booking confirmation |
   
 ### Importance of User-Friendly Design
 - A well-designed booking system makes navigation a breeze, easy to browse, search filter options, guarantee simple checkout and payment.
