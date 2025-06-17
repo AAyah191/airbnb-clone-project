@@ -7,6 +7,6 @@ Understand how website works
 improve UX skills 
 Improve coding and design skills
 ## Tech stack
-HTML, CSS, Javascript, React
-Git and GitHub
-Figma 
+HTML, CSS, Javascript, React,
+Git, GitHub,
+ and Figma 
