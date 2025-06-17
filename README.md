@@ -34,3 +34,19 @@ Git, GitHub,
   
 ### Importance of User-Friendly Design
 - "A well-designed booking system makes navigation a breeze. It allows users to browse, search, and filter options easily, and guarantees a simple checkout and payment process."
+  ### Figma Design specifications
+  #### Color Styles:
+  - Primary:#FF5A5F
+  - Secondary:#008489
+  - Background:#FFFFFF
+  - Text:#222222
+  - Secondary Text:#717171
+    
+  #### Typography:
+  - Primary Font: Circular, Medium (500), 16px
+  - Headings: Circular, Bold (700), 24px-32px
+  - Secondary Text: Circular, Book (400), 14px
+ 
+  ### Importance of Identifying Design Properties
+  Identifying design properties ensures consistency, accurate communication between teams, and efficient development.
+  
