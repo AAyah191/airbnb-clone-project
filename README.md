@@ -11,7 +11,7 @@ HTML, CSS, Javascript, React,
 Git, GitHub,
  and Figma 
  
- ## UI\UX Design Planning
+ ## UI/UX Design Planning
  
  ### Design Goals 
  - Create intuitive booking flow
@@ -33,4 +33,4 @@ Git, GitHub,
 | Simple Checkout View  | Streamlined payment and booking confirmation |
   
 ### Importance of User-Friendly Design
-- A well-designed booking system makes navigation a breeze, easy to browse, search filter options, guarantee simple checkout and payment.
+- "A well-designed booking system makes navigation a breeze. It allows users to browse, search, and filter options easily, and guarantees a simple checkout and payment process."
